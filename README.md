@@ -1,56 +1,22 @@
-## 📊 Project Title: Early Childhood Education in England  
+# Early Childhood Education and Childcare Trends in England (2018–2024)
 
-### 🚀 Project Overview  
-This collaborative project analyzes early childhood education and childcare trends in England between **2018 and 2024**. The goal is to evaluate enrollment patterns, funding for disadvantaged children, and the impact of the pandemic on childcare registrations.  
-It includes:  
-- **Data Preprocessing**: Cleaning and consolidating childcare datasets.  
-- **Data Analysis**: Understanding enrollment trends, provider types, and special educational needs (SEN).  
-- **Pandemic Impact**: Examining regional and local authority-level changes due to COVID-19.  
-- **Additional Funding**: Identifying support for disadvantaged children.  
-- **Presentation**: Summarizing findings collaboratively in PowerPoint.  
+This collaborative project examines early childhood education and childcare trends in England from **2018 to 2024**. The primary objectives are to:
 
----
+- Analyze enrollment patterns.
+- Assess funding for disadvantaged children.
+- Evaluate the impact of the COVID-19 pandemic on childcare registrations.
 
-### 🛠️ Tools & Technologies Used  
-- **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `GeoPandas`  
-- **SQL**: Combining multiple tables for analysis  
-- **Jupyter Notebook**: For data analysis and visualizations  
-- **PowerPoint**: Presenting collaborative findings  
+The data for this project was obtained from the **gov.uk** website and can be downloaded from the following link:  
+[Explore Education Statistics - Data Catalogue](https://explore-education-statistics.service.gov.uk/data-catalogue?publicationId=0ce6a6c6-5451-4967-8dd4-2f4fa8131982&releaseId=a5f0aedf-703d-4ff8-28c4-08dc8a1d4d81&themeId=e6e31160-fe79-4556-f3a9-08d86094b9e8).
 
----
+## Tools and Libraries
 
-### 📈 Key Insights  
+Python was utilized for data preprocessing and visualization, leveraging libraries such as **Matplotlib**, **Seaborn**, and **GeoPandas**.
 
-1. **Enrollment and Entitlements**:  
-   - **15-hour funding** is universally available for 3- and 4-year-olds.  
-   - As of April 2024, 15-hour funding is extended to **some 2-year-olds**.  
+## Folder Structure
 
-2. **Pandemic Impact**:  
-   - Childcare registration dropped significantly in **2020**.  
-   - Regional disparities showed a stronger decline in northern regions and certain local authorities.  
-
-3. **Disadvantaged Children**:  
-   - **Early Years Pupil Premium (EYPP)** funding supports disadvantaged 3- and 4-year-olds.  
-   - Over **87% of disadvantaged cases** are linked to economic challenges, particularly in northern regions.  
-
-4. **Special Educational Needs (SEN)**:  
-   - SEN children often receive 15-hour entitlements, with fewer benefiting from 30-hour funding.  
-   - Types of support include SEN programs and formal EHC plans for children with complex needs.  
-
----
-
-### 📁 Project Files  
-- **notebooks/**: Jupyter Notebooks for data cleaning and analysis.  
-- **data/**: Cleaned datasets used for the analysis.  
-- **presentation/**: Final PowerPoint presentation summarizing findings.  
-
----
-
-### 🎯 Outcome  
-This project demonstrates the ability to:  
-- Analyze early childhood education trends and funding in England.  
-- Evaluate the impact of the pandemic on childcare enrollment.  
-- Highlight disparities in educational support for disadvantaged and SEN children.  
+- **notebooks**: Contains the Jupyter notebook documenting my contributions to this collaborative project.
+- **presentation**: Includes the final presentation, showcasing joint efforts, findings, and conclusions.
 
 ---
 
