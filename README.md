@@ -1,6 +1,6 @@
 # Early Childhood Education and Childcare Trends in England (2018–2024)
 
-This collaborative project examines early childhood education and childcare trends in England from **2018 to 2024**. The primary objectives are to:
+This collaborative project examined early childhood education and childcare trends in England from **2018 to 2024**. The primary objectives were to:
 
 - Analyze enrollment patterns.
 - Assess funding for disadvantaged children.
