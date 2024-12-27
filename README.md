@@ -20,7 +20,7 @@ Python was utilized for data preprocessing and visualization, leveraging librari
 
 ---
 
-### 🤝 Collaboration  
+### Collaboration  
 This project was completed collaboratively by **Melanie Guzman** and **Rachel Vard**.  
 
 
